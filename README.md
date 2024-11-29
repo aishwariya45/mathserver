@@ -126,8 +126,9 @@ urlpatterns = [
     path('powerofbulb/',views.powerofbulb,name="powerofbulb"),
     path('',views.powerofbulb,name="powerofbulbroot")
 ]
+```
 # SERVER SIDE PROCESSING:
-mathapp/Screenshot (4).png
+Screenshot (4).png
 # HOMEPAGE:
 mathapp/Screenshot (3).png
 # RESULT:
