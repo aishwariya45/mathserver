@@ -128,8 +128,8 @@ urlpatterns = [
 ]
 ```
 # SERVER SIDE PROCESSING:
-Screenshot (4).png
+![alt text](<aishu/Screenshot (4).png>)
 # HOMEPAGE:
-mathapp/Screenshot (3).png
+![alt text](<aishu/mathapp/Screenshot (3).png>)
 # RESULT:
 The program for performing server side processing is completed successfully.
